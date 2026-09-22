@@ -23,8 +23,6 @@ Ecco un'anteprima del report interattivo sviluppato in Power BI, che include fil
 
 ![Anteprima Dashboard](dashboard-preview.png)
 
-*(Nota: sostituisci `dashboard-preview.png` con il nome esatto del file immagine che hai caricato su GitHub se lo hai chiamato diversamente).*
-
 ---
 
 ## 📂 Struttura del Repository
